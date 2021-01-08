@@ -1,10 +1,10 @@
 # OS - Scheduling Algorithms
 
 
-FCFS - First Come First Serve
-SJF - Shortest Job First
-SRJF - Shortest Remaining Job First
-Priority Scheduling
+1. FCFS - First Come First Serve
+2. SJF - Shortest Job First
+3. SRJF - Shortest Remaining Job First
+4. Priority Scheduling
 
 The cpp files requires graphics.h library
 
